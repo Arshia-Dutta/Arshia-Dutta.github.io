@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Researcher, <a href="https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/information-security/">Royal Holloway, University of London</a>
+subtitle: PhD Researcher, <a href="https://www.royalholloway.ac.uk/research-and-education/departments-and-schools/information-security//">Royal Holloway, University of London</a>
 
 profile:
   align: right
