@@ -15,7 +15,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: ai-ethics, border-control, intimate-partner-violence, phd, responsible-ai
 lang: en
-icon: 🔐
+icon: Arshia
 
 url: https://arshia-dutta.github.io
 baseurl:
@@ -107,7 +107,7 @@ bing_site_verification:
 # -----------------------------------------------------------------------------
 
 blog_name: Arshia Dutta
-blog_description: PhD Researcher at Royal Holloway, University of London
+blog_description: PhD Student at Royal Holloway, University of London
 permalink: /blog/:year/:title/
 lsi: false
 
@@ -265,7 +265,7 @@ jekyll-minifier:
 
 terser:
   compress:
-    drop_console: true
+    drop_console: false
 
 # -----------------------------------------------------------------------------
 # Jekyll Archives
